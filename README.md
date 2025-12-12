@@ -21,6 +21,7 @@
 * GIT
 * CSS
 * HTML
+* JAVASCRIPT
 * Googlefont
 ```
 
